@@ -2,19 +2,202 @@
   {
     "id":1,
     "type":"Territory Areas",
-    "title":"Lean Bois",
-    "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
+    "title":"Ballas",
+    "notes":"",
+	"wiki_link":"",
     "order":1,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#FF0000",
+	"strokecolor":"#551a8b",
+	"fillcolor":"#551a8b",
     "latlngarray": [
-{"lat": 62.957, "lng": -125.134},
-{"lat": 62.802, "lng": -125.947},
-{"lat": 62.741, "lng": -126.034},
-{"lat": 62.111, "lng": -124.376},
-{"lat": 62.402, "lng": -123.771}
-]
+		{"lat": 61.636, "lng": -123.263},
+		{"lat": 61.631, "lng": -123.702},
+		{"lat": 61.865, "lng": -123.900},
+		{"lat": 62.020, "lng": -124.307},
+		{"lat": 62.184, "lng": -124.702},
+		{"lat": 62.703, "lng": -126.141},
+		{"lat": 62.808, "lng": -125.911},
+		{"lat": 62.883, "lng": -125.526},
+		{"lat": 63.153, "lng": -124.109},
+		{"lat": 62.778, "lng": -123.087},
+		{"lat": 62.394, "lng": -122.120},
+		{"lat": 62.200, "lng": -122.505},
+		{"lat": 61.916, "lng": -122.988},
+		{"lat": 61.820, "lng": -123.164}
+	]
   },
   {
-    
+    "id":2,
+    "type":"Territory Areas",
+    "title":"GSF",
+    "notes":"",
+	"wiki_link":"",
+    "order":1,
+	"strokecolor":"#008000",
+	"fillcolor":"#008000",
+    "latlngarray": [
+		{"lat": 64.215, "lng": -123.635},
+		{"lat": 64.330, "lng": -124.063},
+		{"lat": 64.301, "lng": -125.909},
+		{"lat": 63.874, "lng": -126.898},
+		{"lat": 63.084, "lng": -126.898},
+		{"lat": 62.850, "lng": -126.239}
+	]
+  },
+  {
+    "id":3,
+    "type":"Territory Areas",
+    "title":"Vagos",
+    "notes":"",
+	"wiki_link":"",
+    "order":2,
+	"strokecolor":"#FFFF00",
+	"fillcolor":"#FFFF00",
+    "latlngarray": [
+		{"lat": 62.295, "lng": -121.865},
+		{"lat": 61.728, "lng": -122.865},
+		{"lat": 61.624, "lng": -122.942},
+		{"lat": 61.592, "lng": -122.612},
+		{"lat": 61.498, "lng": -122.304},
+		{"lat": 61.145, "lng": -121.546},
+		{"lat": 61.028, "lng": -121.195},
+		{"lat": 61.039, "lng": -120.920},
+		{"lat": 61.145, "lng": -120.634},
+		{"lat": 61.309, "lng": -120.349},
+		{"lat": 61.477, "lng": -120.019},
+		{"lat": 61.997, "lng": -121.107}
+	]
+  },
+  {
+    "id":4,
+    "type":"Territory Areas",
+    "title":"Bay City Hoovers",
+    "notes":"",
+	"wiki_link":"",
+    "order":2,
+	"strokecolor":"#1f1f1f",
+	"fillcolor":"#1f1f1f",
+    "latlngarray": [
+		{"lat": 66.919, "lng": -138.579},
+		{"lat": 66.388, "lng": -139.688},
+		{"lat": 66.074, "lng": -138.754},
+		{"lat": 65.574, "lng": -137.886},
+		{"lat": 65.121, "lng": -137.897},
+		{"lat": 64.851, "lng": -137.655},
+		{"lat": 65.037, "lng": -136.369},
+		{"lat": 65.804, "lng": -136.860},
+		{"lat": 66.413, "lng": -137.299},
+		{"lat": 66.715, "lng": -137.936}
+	]
+  },
+  {
+    "id":5,
+    "type":"Territory Areas",
+    "title":"DSD",
+    "notes":"Down South Degenerates",
+	"wiki_link":"",
+    "order":2,
+	"strokecolor":"#f954ff",
+	"fillcolor":"#f954ff",
+    "latlngarray": [
+		{"lat": 63.947, "lng": -137.161},
+		{"lat": 64.134, "lng": -136.667},
+		{"lat": 64.254, "lng": -136.217},
+		{"lat": 63.283, "lng": -134.613},
+		{"lat": 63.050, "lng": -135.126},
+		{"lat": 63.884, "lng": -136.488}
+	]
+  },
+  {
+    "id":6,
+    "type":"Territory Areas",
+    "title":"Old English Firm",
+    "notes":"",
+	"wiki_link":"",
+    "order":2,
+	"strokecolor":"#54fcff",
+	"fillcolor":"#54fcff",
+    "latlngarray": [
+		{"lat": 70.514, "lng": -133.489},
+		{"lat": 70.441, "lng": -132.852},
+		{"lat": 70.437, "lng": -132.039},
+		{"lat": 70.547, "lng": -131.270},
+		{"lat": 70.587, "lng": -130.347},
+		{"lat": 70.573, "lng": -129.875},
+		{"lat": 70.913, "lng": -129.776},
+		{"lat": 71.089, "lng": -129.886},
+		{"lat": 71.315, "lng": -130.072},
+		{"lat": 71.241, "lng": -131.292},
+		{"lat": 71.206, "lng": -131.720},
+		{"lat": 71.121, "lng": -132.940},
+		{"lat": 71.024, "lng": -132.940},
+		{"lat": 70.999, "lng": -133.258},
+		{"lat": 70.935, "lng": -133.445},
+		{"lat": 70.852, "lng": -133.423},
+		{"lat": 70.751, "lng": -133.445},
+		{"lat": 70.686, "lng": -133.577},
+		{"lat": 70.657, "lng": -133.555}
+	]
+  },
+  {
+    "id":7,
+    "type":"Neutral Zones",
+    "title":"Pink Cage Motel",
+    "notes":"Prime time hostage taking",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#fff",
+    "latlngarray": [
+		{"lat": 69.108, "lng": -121.987},
+		{"lat": 68.951, "lng": -122.141},
+		{"lat": 68.820, "lng": -121.207},
+		{"lat": 68.998, "lng": -121.031}
+	]
+  },
+  {
+    "id":8,
+    "type":"Neutral Zones",
+    "title":"Pillbox Medical Center",
+    "notes":"EMS GANG GANG AYAYA",
+	"wiki_link":"",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#fff",
+    "latlngarray": [
+		{"lat": 67.728, "lng": -121.734},
+		{"lat": 67.485, "lng": -122.000},
+		{"lat": 67.367, "lng": -121.140},
+		{"lat": 67.695, "lng": -120.679}
+	]
+  },
+  {
+    "id":9,
+    "type":"Neutral Zones",
+    "title":"Mission Row PD",
+    "notes":"Oink oink oink oink. Snort. More like a pig pen.",
+    "order":2,
+	"strokecolor":"#FF0000",
+	"fillcolor":"#0000FF",
+    "latlngarray": [
+		{"lat": 66.151, "lng": -120.516},
+		{"lat": 65.906, "lng": -120.516},
+		{"lat": 65.937, "lng": -119.813},
+		{"lat": 66.151, "lng": -119.813}
+	]
+  },
+  {
+    "id":10,
+    "type":"Neutral Zones",
+    "title":"Vanilla Unicorn",
+    "notes":"Now owned by Tony Shaw, the VU is a new southside netural zone.",
+	"wiki_link":"",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#800080",
+    "latlngarray": [
+		{"lat": 64.897, "lng": -123.770},
+		{"lat": 64.734, "lng": -123.595},
+		{"lat": 64.846, "lng": -123.056},
+		{"lat": 64.944, "lng": -123.221}
+	]
+  }
+]
