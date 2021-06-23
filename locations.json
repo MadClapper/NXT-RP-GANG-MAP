@@ -241,5 +241,23 @@
 	{"lat": 63.903, "lng": -110.204},
 	{"lat": 63.836, "lng": -111.918}
     ]
+  },
+{
+    "id":13,
+    "type":"Territory Areas",
+    "title":"Vagos",
+    "notes":"",
+    "order":2,
+    "strokecolor":"#FFFF00",
+    "fillcolor":"#FFFF00",
+    "latlngarray": [
+        {"lat": 69.405, "lng": -121.672},
+	{"lat": 70.078, "lng": -120.969},
+	{"lat": 69.931, "lng": -119.793},
+	{"lat": 69.750, "lng": -120.002},
+	{"lat": 69.397, "lng": -120.595},
+	{"lat": 69.354, "lng": -120.881},
+	{"lat": 69.346, "lng": -121.265}
+    ]
   }
 ]
