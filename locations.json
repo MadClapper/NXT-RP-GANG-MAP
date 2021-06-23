@@ -245,11 +245,11 @@
 {
     "id":13,
     "type":"Territory Areas",
-    "title":"Vagos",
+    "title":"GSF",
     "notes":"",
     "order":2,
-    "strokecolor":"#FFFF00",
-    "fillcolor":"#FFFF00",
+    "strokecolor":"#008000",
+    "fillcolor":"#008000",
     "latlngarray": [
         {"lat": 69.405, "lng": -121.672},
 	{"lat": 70.078, "lng": -120.969},
